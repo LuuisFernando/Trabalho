@@ -1,0 +1,118 @@
+body {
+    color: black;
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(./IMG/fundo.jpg);
+}
+
+h4 {
+
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #052176;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+
+    font-family: Arial Black;
+    font-size: 15px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-transform: none;
+
+}
+
+a {
+    
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #daabd7;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #fdf9f9;
+    
+}
+    
+  
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+nav {
+
+align-items: center;
+
+}
+
+h1 {
+
+    color: black;
+    text-decoration: none;
+    font-size:large;
+    font-style:oblique;
+       
+
+      }
+        
+        
+
+        h2 {
+            color: black;
+            text-decoration: none;
+            font-size:large;
+            font-style:oblique;
+            
+
+        }
+
+        h3 {
+
+            color: black;
+            text-decoration: none;
+            font-size:medium;
+            font-style:oblique;
+            
+        }
+ b {
+
+    color: rgb(73, 6, 82);
+    text-decoration:double;
+    font-size:xx-large;
+    font-style:oblique;
+ }
+
+ div {
+
+  background-color: #ffffff;
+    box-shadow: 0 5px #e670be;
+ }
+
